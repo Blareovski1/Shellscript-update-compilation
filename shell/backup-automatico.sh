@@ -1,13 +1,5 @@
 #!/bin/bash
-#script para automatizar a execução de backup
-#utiliza o programa rsync para backup e zenity para fazer as GUI
-#
-#ano: 2016
-#por Flávio Oliveira (Flávio Dicas)
-#http://www.flaviodeoliveira.com.br
-#http://www.youtube.com/flaviodicas
-#https://github.com/oliveiradeflavio
-#oliveiradeflavio@gmail.com
+
 
 bkpinc()
 {
