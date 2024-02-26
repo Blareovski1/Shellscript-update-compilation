@@ -1,9 +1,5 @@
 #!/bin/bash
 #remove kernel antigo
-#Flávio Oliveira
-#www.youtube.com/flaviodicas
-#www.flaviodeoliveira.com.br
-#13/06/2015 - Última atualização 13/02/2017
 
 #Variáveis de cores
 vermelho="\033[1;31m"
