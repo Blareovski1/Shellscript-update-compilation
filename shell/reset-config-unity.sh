@@ -1,12 +1,6 @@
 #!/bin/bash
-#	2015-2016
-#	Restaura as configurações de fábrica da Interface Unity
-#
-#	por Flávio Oliveira
-#	https://github.com/oliveiradeflavio
-#	http://youtube.com/flaviodicas
-#	http://flaviodeoliveira.com.br
-#	oliveiradeflavio@gmail.com
+
+#	
 
 #verifica se o usuário é root (via interface zentiy)
 if [[ `id -u` -ne 0 ]]; then
