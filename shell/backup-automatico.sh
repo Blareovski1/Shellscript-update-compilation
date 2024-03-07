@@ -126,7 +126,7 @@ mainmenu()
   echo "#############################################################"
   echo "#                     BACKUP AUTOMÁTICO                     #"
   echo "#                                                           #"
-  echo "# utilizando o programa 'rsync' e 'zenity' por Flávio Dicas #"
+  echo "# utilizando o programa 'rsync' e 'zenity' #"
   echo "#############################################################"
   echo
   echo "F) - Backup Full "
